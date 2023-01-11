@@ -1,10 +1,10 @@
 # Speech Data Collector
 
-A speech transcriber that iterates through the transcript and adds everytime you said a key word into a SQL database
+A speech transcriber that iterates through the transcript and everytime you say a key word it gets added into a SQL database
 
 ## Description
 
-This program is a simulation of when business get access to the mic in your device, how they accuartly target you for advertising.
+This program is a simulation of when businesses get access to the mic in your device, which is how they accuartly target you for advertising.
 
 ## Getting Started
 
@@ -45,13 +45,13 @@ python userdata.py
 ## What I learned
 
 * Working with websockets
-* Utilizing audii libraries
+* Utilizing audio libraries
 * How to remove punctuation from strings
 
 
 ## What I want to improve/add
 
-* Creating a seperate app to replicate extaly how these companies work.
-* Adding a second table ti include user_ids to seperate individual data from others.
+* Creating a seperate app to replicate exactly how these companies work.
+* Adding a second table to include user_ids to seperate individual data from others.
 * Implement different classes for more companies
 * Add exact time of word said
