@@ -4,7 +4,7 @@ A speech transcriber that iterates through the transcript and everytime you say 
 
 ## Description
 
-This program is a simulation of when businesses get access to the mic in your device, which is how they accuartly target you for advertising.
+This program is a simulation of when businesses get access to the mic in your device, This is how they accuartly target you for advertising.
 
 ## Getting Started
 
