@@ -9,7 +9,7 @@ This program is a simulation of when business get access to the mic in your devi
 ## Getting Started
 
 ### Video Demo (Click image)
-[![Video Demo](https://img.youtube.com/vi/UtbnAN2j2vQ&t/0.jpg)](https://www.youtube.com/watch?v=UtbnAN2j2vQ&t)
+[![Video Demo](https://img.youtube.com/vi/UtbnAN2j2vQ/0.jpg)](https://www.youtube.com/watch?v=UtbnAN2j2vQ)
 
 
 ### Libraries
